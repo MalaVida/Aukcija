@@ -1,0 +1,25 @@
+﻿<Window x:Class="AukcijaZadatak.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AukcijaZadatak"
+        mc:Ignorable="d"
+        Title="Admin" Height="350" Width="500">
+    
+    <Grid>
+        <Grid.Background>
+            <SolidColorBrush Color="BurlyWood">
+
+            </SolidColorBrush>
+        </Grid.Background>
+        <Button x:Name="buttonReset" Content="Resetuj" HorizontalAlignment="Left" Margin="86,274,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource MenuButton}" Click="buttonReset_Click"/>
+        <Button x:Name="buttonUbaci" Content="Ubaci" HorizontalAlignment="Left" Margin="218,274,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource MenuButton}" Click="buttonUbaci_Click"/>
+        <Button x:Name="buttonObrisi" Content="Obrisi" HorizontalAlignment="Left" Margin="346,274,0,0" VerticalAlignment="Top" Width="75" Style="{DynamicResource MenuButton}" Click="buttonObrisi_Click"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="173" Margin="86,60,0,0" VerticalAlignment="Top" Width="144" Background="{DynamicResource {x:Static SystemColors.WindowTextBrushKey}}" Foreground="Yellow" SelectionChanged="listBox_SelectionChanged" />
+        
+        <TextBox x:Name="textNaziv" HorizontalAlignment="Left" Height="23" Margin="301,112,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Foreground="Yellow" Background="Black"/>
+        <TextBox x:Name="textCena" HorizontalAlignment="Left" Height="23" Margin="301,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Foreground="Yellow" Background="Black"/>
+        <TextBox x:Name="textID" HorizontalAlignment="Left" Height="23" Margin="335,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="46" IsReadOnly="True" Foreground="Yellow" Background="Black"/>
+    </Grid>
+</Window>

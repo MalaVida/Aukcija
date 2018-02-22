@@ -1,0 +1,49 @@
+c:\users\sile\documents\visual studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\bin\Debug\AukcijaZadatak.exe.config
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\MainWindow.g.cs
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\App.g.cs
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak_MarkupCompile.cache
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak_MarkupCompile.lref
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\bin\Debug\AukcijaZadatak.exe
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\bin\Debug\AukcijaZadatak.pdb
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\MainWindow.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.g.resources
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.Properties.Resources.resources
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.csproj.GenerateResource.Cache
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.exe
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.pdb
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Cetke.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Dugmad.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Liste.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\App.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\TextBox.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Label.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Admin.g.cs
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Korisnik.g.cs
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Admin.baml
+C:\Users\Sile\Documents\Visual Studio 2015\Projects\AukcijaZadatak\AukcijaZadatak\obj\Debug\Korisnik.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\bin\Debug\AukcijaZadatak.exe.config
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.exe
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.pdb
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\bin\Debug\AukcijaZadatak.exe
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\bin\Debug\AukcijaZadatak.pdb
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.csprojResolveAssemblyReference.cache
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Admin.g.cs
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Korisnik.g.cs
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\MainWindow.g.cs
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\App.g.cs
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak_MarkupCompile.cache
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak_MarkupCompile.lref
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\App.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Admin.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Korisnik.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\MainWindow.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Cetke.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Dugmad.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Label.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\Liste.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\Stil\TextBox.baml
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.g.resources
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.Properties.Resources.resources
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.csproj.GenerateResource.Cache
+E:\Dokumenti\AukcijaZadatak\AukcijaZadatak\obj\Debug\AukcijaZadatak.csproj.CoreCompileInputs.cache
